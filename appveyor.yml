@@ -1,2 +1,4 @@
+configuration: Release
+
 build:
   project: iRevealLite.sln
